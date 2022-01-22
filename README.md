@@ -2,6 +2,8 @@
 
 Made by Siim Liinat.
 
+![Screenshot 2022-01-23 at 01-31-57 Cosmos Odyssey](https://user-images.githubusercontent.com/57288361/150658988-2ad82057-9768-4cef-a2b3-ead7eeaee45a.png)
+
 ## How to run:
 
 1) Install nodeJS and npm.
